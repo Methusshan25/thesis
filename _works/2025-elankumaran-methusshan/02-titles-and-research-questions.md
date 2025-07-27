@@ -3,7 +3,7 @@
 ## Mögliche Titel
 - Barrierefreiheit als Serviceleistung: Umsetzung von konfigurierbaren Komponenten in einem Multi-Tenant Empfehlungsystem.
 
-- Accessibility as a Service - Konzeption und Umsetzung von mandantenspezifischen barrierefreien Komponenten für ein Multi-Tenant Empfehlungssytem 
+- **Accessibility as a Service - Konzeption und Integration von mandantenspezifischen barrierefreien Komponenten für ein Multi-Tenant Empfehlungssytem** 
 
 - Konzeption und Planung von Komponenten zur Umsetzung von Barrierefreiheit in Multi-Tenant-Systemen nach mandantemspezifischen CI.
 
@@ -27,7 +27,7 @@
 
 ### Konzeption und Entwicklung von barrierefreien Komponenten in einem Empfehlungsystem mit Multi-Tenant-Architektur
 
-Die Arbeit verfolgt das Ziel, barrierefreie Komponenten für ein Empfehlungssystem zu entwickeln, das auf einer Multi-Tenant-Architektur basiert. Im Mittelpunkt steht dabei die Konzeption und Implementierung modularer Bausteine, die flexibel auf die individuellen Wünsche und Anforderungen der einzelnen Mandanten angepasst werden können, ohne dabei die Barrierefreiheit des Gesamtsystems zu gefährden. Besondere Beachtung finden dabei zentrale Aspekte der Accessibility wie korrekte Überschriftenhierarchien, konsistente Tabreihenfolgen und eine klare semantische Struktur, die in jeder denkbaren Konfiguration des Produkts gewährleistet bleiben müssen. Darüber hinaus werden Strategien entwickelt, wie sich Änderungen oder Erweiterungen an den Komponenten so gestalten lassen, dass sie die bestehenden barrierefreien Funktionen nicht beeinträchtigen. Als Ergebnis entsteht ein praxisorientierter Leitfaden, der Schritt für Schritt erläutert, wie neue Feature-Module zu erstellen sind, damit sie sich nahtlos und barrierefrei in das bestehende System integrieren lassen und die hohen Qualitätsstandards auch langfristig gewahrt bleiben.
+**Die Arbeit verfolgt das Ziel, barrierefreie Komponenten für ein Empfehlungssystem zu entwickeln, das auf einer Multi-Tenant-Architektur basiert. Im Mittelpunkt steht dabei die Konzeption und Implementierung modularer Bausteine, die flexibel auf die individuellen Wünsche und Anforderungen der einzelnen Mandanten angepasst werden können, ohne dabei die Barrierefreiheit des Gesamtsystems zu gefährden. Besondere Beachtung finden dabei zentrale Aspekte der Accessibility wie korrekte Überschriftenhierarchien, konsistente Tabreihenfolgen und eine klare semantische Struktur, die in jeder denkbaren Konfiguration des Produkts gewährleistet bleiben müssen. Darüber hinaus werden Strategien entwickelt, wie sich Änderungen oder Erweiterungen an den Komponenten so gestalten lassen, dass sie die bestehenden barrierefreien Funktionen nicht beeinträchtigen. Als Ergebnis entsteht ein praxisorientierter Leitfaden, der Schritt für Schritt erläutert, wie neue Feature-Module zu erstellen sind, damit sie sich nahtlos und barrierefrei in das bestehende System integrieren lassen und die hohen Qualitätsstandards auch langfristig gewahrt bleiben.**
 
 ### Prozesserläuterung bei der Umsetzung von Barrierefreiheit in ein existierendes Empfehlungssystem eines Unternehmens
 
